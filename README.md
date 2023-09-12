@@ -1,4 +1,4 @@
-<h2>Olá eu sou a Domynic B. Lima, estudante de Ciência da Computação.</h2>
+<h2>Olá eu sou a Gabriel F. Q. Oliveira, estudante de Ciência da Computação.</h2>
 
 <div>
   <a href="https://github.com/GabrielFQuaresma/">
