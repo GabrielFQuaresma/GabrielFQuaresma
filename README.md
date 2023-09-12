@@ -14,12 +14,10 @@
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-  
-  ##
-     
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.gabriel.quaresma@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/gabrielf-oliveira/">
-      <img width="25" src="linkedin.svg">
+
+##
+
+  <div> 
+  <a href="https://www.linkedin.com/in/gabrielf-oliveira/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> 
+  <a href =mailto:work.gabriel.quaresma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
